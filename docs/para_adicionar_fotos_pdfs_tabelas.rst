@@ -3,22 +3,17 @@ Para adicionar Imagens, PDFs
 
 	O recomendado é criar uma **pasta no diretório onde a imagem ficará** em determinada página, capa etc.
 
-	**Exemplo:** na página **projetos** há imagens, para isso teve que se criado uma **pasta** em **assuntos** pois projetos está em **/assuntos/projetos**, mas a pasta de imagens foi criada na raíz, ou seja a partir de **assuntos**: 
+	**Exemplo:** na página **imagens** (localizado no Menu Centrais de Conteúdo), há uma capa chamada Galeria de Imagens (/galeria-de-imagens/folder_contents), mas há também uma pasta chama imagens.
 
-			"/assuntos/imagens/"
+Passo a passo de como foi criado a pasta imagens:
 
-
-Passo a passo
---------------
-
-		1. Digite no browser: **/assuntos/folder_contents** (para ir na raíz de assuntos)
-		2. Clique **Adicionar Item** > **Pasta**
-		3. Nomeie como "imagens" ou outro nome
+		1. Digite no browser: **/galeria-de-imagens/folder_contents** (para ir na raíz)
+		2. **Adicionar Item** > **Pasta**
+		3. Nomeie como "imagens"
 
 		.. note::  Para que a pasta seja uma **pasta interna**, ou seja, para que *não apareça* para o usuário no menu, é necessário configurá-la: 
 				1. Vá na barra de ferramentas clique **Edição** > **Configurações** e ticar a opção **Excluir da Navegação** 
 				2. Clique em salvar.
-
 
 		4. Feito isso volte na aba **Conteúdo**
 		5. Haverá 4 botões: **verde** (adicionar arquivos), **azul** (inciar upload), **amarelo** (cancelar upload) e **vermelho** (excluir selecionados)

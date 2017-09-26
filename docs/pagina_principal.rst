@@ -51,5 +51,3 @@ Exemplo:
 	* Pasta Documentação
 	* Portlet Estático (Centrais de Conteúdos)
 	* Pasta Rodapé (Footer do site)
-
-

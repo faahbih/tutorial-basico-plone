@@ -1,16 +1,15 @@
-Tutorial portal padrão Plone
-============================
+Orientações para editar site pelo Plone CMS
+===========================================
 
 * Este tutorial teve como referência o `Manual Portal Padrão do Governo <http://www.secom.gov.br/orientacoes-gerais/comunicacao-digital/gestao-manual-portal-modelo-governo-federal-dez2014.pdf/view>`_.
 
 * Apresenta os principais itens utilizados para manutenção/edição do portal (site) pelo Plone
-* Repaginação do site da `OBT/INPE <http://www.obt.inpe.br>`_.
 
 .. toctree::
    :maxdepth: 2
    :caption: Índice
 
-
+   login
    pagina_principal
    para_criar_pagina
    para_criar_paginas_com_paginas_dentro
@@ -30,7 +29,6 @@ Tutorial portal padrão Plone
    itens_que_precisam_ser_atualizados
    observacoes
 
-
 .. _about-docs:
 
 .. toctree::
@@ -38,4 +36,3 @@ Tutorial portal padrão Plone
    :caption: About
 
    author
-
