@@ -28,7 +28,7 @@ Para ALTERAR o Layout
 Tabela de itens
 ---------------
 
-	Quando clicado em **Conteúdo** (na barra de edição em verde) voltamos a ver a listagem como dito anteriormente.
+	Quando clicado em **Conteúdo** (na barra de ferramentas em verde) voltamos a ver a listagem como dito anteriormente.
 	Essa listagem apresenta todo conteúdo que existe no site, mostrando informações como: **Título**, **Tamanho**, **Modificado**, **Estado**
 
 
@@ -40,8 +40,9 @@ Exemplo:
 
 	O segundo item também chamado de **Contato** é uma **Página** com todas as informações necessárias.
 
-	**Neste exemplo:** Foi criado uma página de Contato para mostrar a informação, porém foi necessário criar um Link para poder adicioná-lo na barra de **Serviços onde é aceito somente links**.
+	**Neste exemplo:** Foi criado um item do tipo página (Contato) para mostrar a informação, porém foi necessário criar um item do tipo Link (Contato) para poder adicionar a página Contato. 
 
+	.. warning:: Na barra de **Serviços** é aceito somente itens do tipo Link.
 
 	Os principais itens da tabela que compõem todo o layout do site são:
 

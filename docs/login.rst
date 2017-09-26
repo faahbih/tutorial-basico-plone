@@ -3,7 +3,7 @@ Login
 
 	Acesse o site `DGI <http://saci.dgi.inpe.br/folder_contents>`_
 	
-	Automaticamente o site será direcionada a uma tela de login, basta digitar nos campos usuário/senha fornecidos pelo administrador.
+	Automaticamente o site será direcionado a uma tela de login, basta digitar nos campos usuário/senha fornecidos pelo administrador.
 
 Assim que Logar
 ---------------
