@@ -17,13 +17,12 @@ Orientações para editar site pelo Plone CMS
    para_editar_barra_de_menu
    para_adicionar_link_interno
    para_adicionar_link_externo
-   para_adicionar_nova_noticia
    para_editar_rodape
    para_editar_cabecalho
-   para_editar_carrossel_de_imagens
-   para_usar_banner_rotativo
+   .. para_editar_carrossel_de_imagens
+   .. para_usar_banner_rotativo
    para_centrais_de_conteudos
-   para_usar_o_modulo_tile_collection
+   .. para_usar_o_modulo_tile_collection
    para_incorporar_embed
    para_add_outros_formatos_de_arquivos
    itens_que_precisam_ser_atualizados

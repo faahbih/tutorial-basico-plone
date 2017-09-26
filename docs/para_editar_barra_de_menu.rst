@@ -38,4 +38,3 @@ Para editar Barra de Menu
 	10. Por fim, atribua o valor 0 (zero) em Nível Inicial e salve.
 
 Feito isso, o portlet aparecerá junto com os demais portlets, basta organizar da forma desejada através das setas de indicação para cima ou para baixo, para mover o portlet.
-

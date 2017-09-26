@@ -5,9 +5,9 @@ Para editar o Rodapé
 	* Clique na pasta **Rodapé** (criada por padrão)
 		
 		* Haverá 4 pastas: 
-			* **primeira coluna** (que contém a pasta **Assuntos**)
-			* **segunda coluna** (pasta **Acesso à Informação**)
-			* **terceira coluna** (pasta **Serviços**)
+			* **primeira coluna** (que contém a pasta **Áreas de Atuação** e **Documentação**)
+			* **segunda coluna** (pasta **Serviços**)
+			* **terceira coluna** (pasta **Acesso à Informação**)
 			* **quarta coluna** (pasta **Navegação**)
 
 	* Basta clicar na coluna desejada para editá-la.
