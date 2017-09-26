@@ -25,8 +25,9 @@ Orientações para editar site pelo Plone CMS
    .. para_usar_o_modulo_tile_collection
    para_incorporar_embed
    para_add_outros_formatos_de_arquivos
-   itens_que_precisam_ser_atualizados
-   observacoes
+   .. itens_que_precisam_ser_atualizados
+   .. observacoes
+
 
 .. _about-docs:
 
