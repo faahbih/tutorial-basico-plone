@@ -21,7 +21,7 @@ Para EDITAR o Layout
 Para ALTERAR o Layout
 ---------------------
 	
-	* Vá em **Layout** e altere da forma desejada, sendo possível editar **cor**, tamanho de coluna etc., basta clicar no **símbolo da engrenagem**. 
+	* Vá em **Layout** e altere da forma desejada, sendo possível editar **cor**, **tamanho de coluna** etc., basta clicar no **símbolo da engrenagem**. 
 
 	.. note:: Há opção de exportar o layout criado para ser usado em outra capa. Basta clicar em Exportar este layout e nomeá-lo para salvar.
 
@@ -36,7 +36,9 @@ Exemplo:
 	
 	Na tabela de itens existe uma pasta chamada **Serviços** com *Estado como publicado*
 
-	Quando acessamos essa pasta haverá dois itens chamados **Contato**, neste exemplo o primeiro item **Contato** *não* é uma pasta, mas sim um **Link** que podemos editar a qualquer momento. O segundo item também chamado de **Contato** é uma **Página** com todas as informações necessárias.
+	Quando acessamos essa pasta haverá dois itens chamados **Contato**, neste exemplo o primeiro item **Contato** *não* é uma pasta, mas sim um **Link** que podemos editar a qualquer momento. 
+
+	O segundo item também chamado de **Contato** é uma **Página** com todas as informações necessárias.
 
 	**Neste exemplo:** Foi criado uma página de Contato para mostrar a informação, porém foi necessário criar um Link para poder adicioná-lo na barra de **Serviços onde é aceito somente links**.
 

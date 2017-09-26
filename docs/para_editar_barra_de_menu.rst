@@ -25,6 +25,7 @@ Para editar Barra de Menu
 	**Exemplo:**
 
 	Para criar um portlet chamado “Projetos”:
+	
 	1. Vá na raiz do site ou digite **/folder_contents** no browser
 	2. Clique em **adicionar item** (barra de edição em verde) > **pasta**
 	3. Nomeie como Projetos
