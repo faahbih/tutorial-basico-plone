@@ -40,16 +40,16 @@ Exemplo:
 
 	O segundo item também chamado de **Contato** é uma **Página** com todas as informações necessárias.
 
-	**Neste exemplo:** Foi criado um item do tipo página (Contato) para mostrar a informação, porém foi necessário criar um item do tipo Link (Contato) para poder adicionar a página Contato. 
+	**Neste exemplo:** Foi criado um item do tipo página (Contato) para mostrar a informação, porém foi necessário criar um item do tipo Link (Contato) para poder adicionar a página Contato, ou seja, nesse item Link, precisamos adicionar o caminho onde se encontra a página **Contato**, neste caso **${portal_url}/servicos/contact**
 
 	.. warning:: Na barra de **Serviços** é aceito somente itens do tipo Link.
 
 	Os principais itens da tabela que compõem todo o layout do site são:
 
-	* Pasta Serviços (Barra em Azul mais forte)
-	* Portlet Estático (Logo)
-	* Pasta Menu de Relevância (links externos)
-	* Pasta Acesso à Informação (logo abaixo ao Menu de Relevância)
+	* Pasta Serviços (localizado na barra em Azul mais forte)
+	* Portlet Estático (Logotipo DGI no menu lateral)
+	* Pasta Menu de Relevância (links externos, abaixo do logo)
+	* Pasta Acesso à Informação (abaixo do Menu de Relevância)
 	* Pasta Áreas de Atuação
 	* Pasta Documentação
 	* Portlet Estático (Centrais de Conteúdos)

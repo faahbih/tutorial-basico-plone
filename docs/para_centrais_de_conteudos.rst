@@ -1,10 +1,12 @@
 Para Centrais de Conteúdos
 ==========================
 
-Adicionar
----------
+	Para itens como Galeria de Imagens, Publicações, Dados Abertos, Infográficos, Videos, Áudios, é necessário a criação do Portlet **Centrais de Conteúdos**, que ficará localizado abaixo do menu principal.
 
-	* Certifique-se que está na **HOME** do site, clique em **gerenciar portlets**
+Criar Centrais de Conteúdos
+---------------------------
+
+	* Certifique-se que está na **HOME**/**Raíz** do site, clique em **gerenciar portlets**
 	* Clique **adicionar portlet** > **texto estático**
 	* Nomeie como "Centrais de Conteúdos"
 	* Adicione o código HTML abaixo
@@ -22,7 +24,10 @@ Manutenção
 		- conforme no manual de gestão do portal padrão há um código para ser usado;
 		- url do manual: http://www.secom.gov.br/orientacoes-gerais/comunicacao-digital/gestao-manual-portal-modelo-governo-federal-dez2014.pdf 
 		- o código encontra-se na página 298
-		- copie o código e remova os itens que não deseja que está entre as tags <ul> </ul>.
+		- copie o código e remova os itens que não deseja que está entre as tags <ul>..</ul>.
+
+		    + Obs. No site da DGI existe apenas Galeria de Imagens.
+		      
 
 Código em HTML da Centrais de Conteúdos
 ---------------------------------------
