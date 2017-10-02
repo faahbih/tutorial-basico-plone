@@ -1,7 +1,7 @@
 Para Centrais de Conteúdos
 ==========================
 
-	Para itens como Galeria de Imagens, Publicações, Dados Abertos, Infográficos, Videos, Áudios, é necessário a criação do Portlet **Centrais de Conteúdos**, que ficará localizado abaixo do menu principal.
+	Para itens como Galeria de Imagens, Publicações, Dados Abertos, Infográficos, Videos, Áudios, é necessária a criação do Portlet **Centrais de Conteúdos**, que ficará localizado abaixo do menu principal.
 
 Criar Centrais de Conteúdos
 ---------------------------
