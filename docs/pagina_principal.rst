@@ -10,7 +10,7 @@ Na página atual da DGI é composta:
 	* módulo de texto.
 	  
 	.. note:: Para visualizar o Layout da Home basta clicar em Visão (barra de edição em verde), em seguida em Layout.
-	
+
 	  
 Para EDITAR o Layout
 ----------------------
@@ -48,10 +48,11 @@ Exemplo:
 	Os principais itens da tabela que compõem todo o layout do site são:
 
 	* Pasta Serviços (localizado na barra em Azul mais forte)
-	* Portlet Estático (Logotipo DGI no menu lateral)
+	* Pasta Links Relacionados (que fica abaixo do logotipo DGI)
 	* Pasta Menu de Relevância (links externos, abaixo do logo)
 	* Pasta Acesso à Informação (abaixo do Menu de Relevância)
 	* Pasta Áreas de Atuação
 	* Pasta Documentação
-	* Portlet Estático (Centrais de Conteúdos)
 	* Pasta Rodapé (Footer do site)
+	  
+	.. note:: Na tabela também aparecem itens privados (em vermelho), esses itens vieram por padrão quando foi criado o portal e significa que os usuários não possuem nenhum tipo de acesso.
