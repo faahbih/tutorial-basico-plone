@@ -10,7 +10,7 @@ Na página atual da DGI é composta:
 	* módulo de texto.
 	  
 	.. note:: Para visualizar o Layout da Home basta clicar em Visão (barra de edição em verde), em seguida em Layout.
-
+	
 	  
 Para EDITAR o Layout
 ----------------------
@@ -28,7 +28,8 @@ Para ALTERAR o Layout
 Tabela de itens
 ---------------
 
-	Quando clicado em **Conteúdo** (na barra de ferramentas em verde) voltamos a ver a listagem como dito anteriormente.
+	Quando clicado em **Conteúdo** (na barra de ferramentas em verde) veremos uma listagem como se fosse uma tabela.
+
 	Essa listagem apresenta todo conteúdo que existe no site, mostrando informações como: **Título**, **Tamanho**, **Modificado**, **Estado**
 
 
