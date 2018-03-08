@@ -21,6 +21,7 @@ Orientações para editar site pelo Plone CMS
    para_editar_cabecalho
    .. para_editar_carrossel_de_imagens
    .. para_usar_banner_rotativo
+   para_usar_portlets
    para_centrais_de_conteudos
    .. para_usar_o_modulo_tile_collection
    para_incorporar_embed
