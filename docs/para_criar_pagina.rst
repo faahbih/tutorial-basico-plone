@@ -9,11 +9,11 @@ Outra coisa que devemos saber é que no plone, existem diversas formas de se cri
 		* Agenda, Capa, Coleção, ... Pasta, Página.
 	* Para criar uma página normalmente utiliza-se **Página**, **Pasta** ou **Capa**.
 
-	**Exemplo:**
+	**Exemplo**: Para criar uma página em **Áreas de Atuação** 
 
-	Há duas maneiras de acessar a pasta **Serviços**:
+	Há duas maneiras de acessar a pasta **Áreas de Atuação**:
 	
-		1. pelo browser: digite após localizar a home (raíz) **/servicos** e clique em **Conteúdo** na barra de ferramentas em verde
-		2. pelo browser: digite após localizar a home (raíz) **/servicos/folder_contents** (isso direcionará para pasta raíz de **Serviços**)
+		1. pelo browser: digite após localizar a home (raíz) **/areas-de-atuacao** e clique em **Conteúdo** na barra de ferramentas em verde
+		2. pelo browser: digite após localizar a home (raíz) **/areas-de-atuacao/folder_contents** (isso direcionará para pasta raíz de **Áreas de Atuação**)
 
-	Feito isso basta clicar em **Adicionar Item** > mais > escolher a opção página.
+	Feito isso basta clicar em **Adicionar Item** > **Página** (ou Capa, Pasta etc.)
