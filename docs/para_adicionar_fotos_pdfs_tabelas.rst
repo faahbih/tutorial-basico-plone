@@ -3,7 +3,7 @@ Para adicionar Imagens, PDFs
 
 	O recomendado é criar uma **pasta no diretório onde a imagem/arquivo será usada(o)**.
 
-	**Exemplo:** na página **imagens** (localizado no Menu Centrais de Conteúdo), há uma capa chamada Galeria de Imagens (/galeria-de-imagens/folder_contents), mas há também uma pasta chama imagens.
+	**Exemplo:** na página **imagens** (localizado no **Menu** > **Centrais de Conteúdo**), há uma capa chamada Galeria de Imagens (/galeria-de-imagens/folder_contents), mas há também uma pasta chama imagens.
 
 Passo a passo de como da criação da pasta imagens:
 
