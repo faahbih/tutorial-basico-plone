@@ -8,7 +8,7 @@ Para incorporar <embed>
 	
 	* Vá até **Configuração do Site**  > **Filtragem HTML**
 		* Remova "object" and "embed" da lista Tags ofensivas
-		* Remove "object" and "param" da lista  Tags removidas
+		* Remova "object" and "param" da lista  Tags removidas
 		* Add "embed" e "iframe" na lista de Tags customizadas
 		* Clique em salvar
 	

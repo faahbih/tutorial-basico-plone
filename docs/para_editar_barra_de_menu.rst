@@ -18,7 +18,7 @@ Para editar Barra de Menu
 		* portlet estático de centrais de conteúdos
 
 	
-	Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.)
+	Obs.: Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.). Ver mais detalhes, acesse o tópico **Para usar Portlets**
 
 	.. warning:: para que o portlet do tipo navegação seja criado corretamente, é necessário antes criar a pasta destinada à este portlet.  
 
@@ -28,7 +28,7 @@ Para editar Barra de Menu
 	
 	1. Vá na raiz do site ou digite **/folder_contents** no browser
 	2. Clique em **adicionar item** (barra de edição em verde) > **pasta**
-	3. Nomeie como Projetos
+	3. Nomeie como Projetos, salve e publique
 		* aparecerá no final de todos os outros itens da tabela, basta clicar em **exibir todos**
 	4. Feito isso, vá em **Gerenciar Portlets**
 	5. Clique em **Adicionar Portlet** e escolha o tipo **Navegação**

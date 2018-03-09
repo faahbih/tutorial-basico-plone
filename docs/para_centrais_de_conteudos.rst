@@ -26,7 +26,7 @@ Manutenção
 		- o código encontra-se na página 298
 		- copie o código e remova os itens que não deseja que está entre as tags <ul>..</ul>.
 
-		    + Obs. No site da DGI existe apenas Galeria de Imagens.
+		    + Obs. No site da DGI existem as centrais Galeria de Imagens e Cartas.
 		      
 
 Código em HTML da Centrais de Conteúdos

@@ -39,7 +39,7 @@ Exemplo:
 
 	Quando acessamos essa pasta haverá dois itens chamados **Contato**, neste exemplo o primeiro item **Contato** *não* é uma pasta, mas sim um **Link** que podemos editar a qualquer momento. 
 
-	O segundo item também chamado de **Contato** é uma **Página** com todas as informações necessárias.
+	O segundo item também chamado de **Contato** é uma **Página** com todas as informações de contato daquela página.
 
 	**Neste exemplo:** Foi criado um item do tipo página (Contato) para mostrar a informação, porém foi necessário criar um item do tipo Link (Contato) para poder adicionar a página Contato, ou seja, nesse item Link, precisamos adicionar o caminho onde se encontra a página **Contato**, neste caso **${portal_url}/servicos/contact**
 
