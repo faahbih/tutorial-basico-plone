@@ -16,4 +16,4 @@ Author
 .. topic:: Contato
 
 	
-	email: fabiana.rr.oliveira@gmail.com | telefone: (12) 98841-1448`Github <https://github.com/faahbih/>`_
+	email: fabiana.rr.oliveira@gmail.com
